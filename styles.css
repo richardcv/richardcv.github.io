@@ -1,7 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 
 h1 {
+<<<<<<< HEAD
   font-family: 'Eurostile', sans-serif;
+=======
+  font-family: 'Raleway', sans-serif;
+>>>>>>> parent of bf729e8... font change
   font-weight: 100;
   width: 100%;
   text-align: center;
