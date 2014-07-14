@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Richard Van De Water</title>
+  <meta name="author" content="Richard Van De Water">
+  <link rel="stylesheet" href="normalize.css">
+  <link rel="stylesheet" href="styles.css">
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <h1>hello</h1>
+
+
+
+  <script>
+      ], {duration: 4000, fade: 850});
+    $("h1").fitText(1.2);
+  </script>
+</body>
+</html>
