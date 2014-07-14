@@ -11,7 +11,19 @@
   <![endif]-->
 </head>
 <body>
-	<h2>http://instagram.com/richvdw</h2>
+	<h2><a href="http://instagram.com/richvdw"STYLE="text-decoration: none">Instagram</a></h2>
+
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.1/jquery.fittext.min.js"></script>
+  <script src="backstretch.min.js"></script>
+  <script>
+    $.backstretch([
+      "images/Richard's-Logo.jpg",
+      "images/surfs-up.jpg",
+      "images/wilderness.jpg",
+      ], {duration: 4000, fade: 850});
+    $("h1").fitText(1.2);
+  </script>
 
 </body>
 </html>
