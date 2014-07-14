@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Instagram</title>
+  <meta name="author" content="Richard Van De Water">
+  <link rel="stylesheet" href="normalize.css">
+  <link rel="stylesheet" href="styles2.css">
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+	<h1>http://instagram.com/richvdw</h1>
+
+</body>
+</html>
